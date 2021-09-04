@@ -1,4 +1,4 @@
-<h1>ipcam</h1>
+<h1>szhport</h1>
 <p>This tool is used to check ports by giving the IP Address or Hostname.<br/>Enjoy ^_^</p>
 <h1>How to install :</h1>
 
