@@ -15,7 +15,7 @@ python -m pip install -r requirements.txt
 <b>If You Have Version3 :</b><br/>
 
 ```
-python3 -m pip install -r requirements.txt<br>
+python3 -m pip install -r requirements.txt
 ```
 <h1>Running:</h1>
 
