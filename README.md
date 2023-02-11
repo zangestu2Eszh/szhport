@@ -22,7 +22,7 @@ python3 -m pip install -r requirements.txt<br/>
 ```
 python szhport.py
 ```
-<b>If You Have Version3 :</b><br/>
+<b>If You Have Version3 :</b><br>
 
 ```
 python3 szhport.py
